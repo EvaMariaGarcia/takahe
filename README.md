@@ -8,8 +8,7 @@
 
 ### Excercise 2A
 
-[Pinterest Moodboard]
-(https://www.pinterest.co.uk/evagarcia98/narrative-website/)
+[Pinterest Moodboard](https://www.pinterest.co.uk/evagarcia98/narrative-website/)
 
 [Digital Moodboard](https://niice.co/m/47cee76d9f1b4414fc142cbf6c6c6ee0)
 
