@@ -1,0 +1,88 @@
+/* -- CSS RESET -- */
+*{ padding: 0;
+  margin; 0;
+  font-size; 100%;
+  line-height: 1em;
+}
+body {
+width: 100%;
+max-width: 100%;
+    max-height: 100%;
+font-family: 'Playfair Display', serif;
+  margin: auto;
+  color: black;
+line-height: 1.8em;}
+
+/*--Headings--*/
+
+h1 {font-size: 5em;}
+h2 {font-size: 2em;}
+h3 {font-size: 2em;}
+h4 {position: em;}
+
+
+/*--Paragraph--*/
+p, li {line-height: 10px;
+letter-spacing: 2px;}
+
+p {font-size: 20px;
+font-family: 'Cormorant Garamond', serif;
+    margin-right: 8em;
+    margin-left: 8em;
+line-height: 40px;
+letter-spacing: 2px;}
+
+/* --Section-- */
+.start {background: #496f74;}
+
+/*--Icons--*/
+.icons {margin: 0 auto;
+    padding-top: 2em;
+    width: 26em;
+background-color: #F46E67;}
+
+.icons:hover img{
+    opacity: .6;
+    transform: scale(.90);}
+
+.icons img:hover{ opacity: 1;
+transform: scale(1.1);}
+
+.icons img {float: left; 
+    transition: all .2s ease-in-out;
+margin-left: 4em;}
+
+/*--Footer--*/ 
+footer {padding-bottom: 2em;}
+
+/*--tablet--*/
+@media (max-width: 1000px) {
+    
+    
+    
+  body{
+/*    background-color: #8080ff;*/
+    width: 100%;
+    
+    }
+
+    article p {
+        margin-left: 6em;
+        margin-right: 6em;
+    }
+    
+  /*--smartphone--*/
+  @media (max-width: 500px) {
+    article p {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+      nav ul {text-align: center;
+  text-transform: lowercase;
+  letter-spacing: 10px;
+}
+nav ul li {
+  display: inline;
+  margin: 3px;
+
+  }
