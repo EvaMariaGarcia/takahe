@@ -14,7 +14,7 @@
 
 ### Excercise 2B
 
-[Style Tile]()
+[Style Tile](https://github.com/EvaMariaGarcia/takahe/blob/gh-pages/images/birdstyletile.png)
 
 
 
