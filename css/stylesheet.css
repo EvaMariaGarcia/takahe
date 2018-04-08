@@ -118,7 +118,10 @@ img { display: block;
 margin: auto;
     max-width: 100%;
     width: 100%;
+    height: auto;
 align-content: center;}
+
+.billiard {height: inherit;}
 
 /*--Tables--*/ 
 table {border-collapse: collapse;
