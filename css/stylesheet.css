@@ -20,7 +20,6 @@ h2 {font-size: 1em;}
 h3 {font-size: 3em;
     text-align: center;
     color: #9cb7b9;}
-h4 {position: em;}
 
 .titletext {font-size: 4em;
     text-align: center;
@@ -36,6 +35,8 @@ left: 5em;
 top: 40em;}
 
 .blockquote2 {color: white;
+    margin-right: 2em;
+    margin-left: 2em;
     font-size: 1em;
     padding-top: 8em;
 text-align: center;}
@@ -78,14 +79,11 @@ letter-spacing: 2px;}
 
 p {font-size: 22px;
 font-family: 'Cormorant Garamond', serif;
-    margin-right: 16em;
-    margin-left: 16em;
+    margin-right: 14em;
+    margin-left: 14em;
 line-height: 40px;
 letter-spacing: 2px;}
 
-.para1 {font-size: 23px;
-margin-left: 15em;
-margin-right: 15em;}
 
 /* --Section-- */
 .header {background-color: #496f74;
