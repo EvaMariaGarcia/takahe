@@ -54,7 +54,7 @@ font-size: 3em;}
 nav {padding: 1.7em;
 margin-bottom: em;
 }
-nav ul {text-align: center;
+nav ul {text-align: right;
   text-transform: lowercase;
   letter-spacing: 10px;
 }
@@ -92,7 +92,7 @@ margin-right: 15em;}
 background-image: url(branch1.png);
  background-repeat: no-repeat;
     background-position: center;
-padding-bottom: 75em;}
+padding-bottom: 82em;}
 
 .start  {background-color: #496f74;
     padding-top: 1em;
