@@ -20,6 +20,9 @@ h2 {font-size: 1em;}
 h3 {font-size: 3em;
     text-align: center;
     color: #9cb7b9;}
+h4 {font-size: 1em;
+text-align: center;
+color: white;}
 
 .titletext {font-size: 4em;
     text-align: center;
@@ -50,6 +53,8 @@ color: white;}
 
 .whitetitle {color: white;
 font-size: 3em;}
+
+.facts {padding-top: 35em;}
 
 /*--Navigation--*/
 nav {padding: 1.7em;
@@ -111,6 +116,12 @@ padding-top: 2em;}
 .winter {background-color:#496f74;
 padding-top: 2em;}
 
+.fastfacts {background-image: url(leafbranch3.png);
+ background-repeat: no-repeat;
+    background-position: center;
+    background-color: #de9b9e;
+    padding-bottom: 35em;}
+
 /*--Images--*/
 img { display: block;
 margin: auto;
@@ -118,23 +129,31 @@ margin: auto;
     height: auto;
 align-content: center;}
 
+/*--Lists--*/ 
+
+ul, li {color: white;
+margin: auto;
+line-height: 2em;
+text-align: center;
+list-style-type: none;}
+
 /*--Tables--*/ 
 table {border-collapse: collapse;
-width: 50em;
+width: 25em;
 object-position: center;
 margin: auto;
 color: white;}
 
 th {background-color: #496f74;
-height: px;
-text-align: left;}
+text-align: center;}
 
 th, td {
     padding: 15px;
-    text-align: left;}
+    text-align: center;}
 
 tr:hover {background-color: #9cb7b9;}
 tr:nth-child(odd) {background-color: #cbc6bf;}
+
 
 
 /*--Icons--*/
