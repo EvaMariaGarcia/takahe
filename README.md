@@ -20,6 +20,14 @@
 
 [Style Tile](https://github.com/EvaMariaGarcia/takahe/blob/gh-pages/images/birdstyletile.png)
 
+### Excercise 3A
+
+
+### Excercise 3B 
+
+[Typography](https://evamariagarcia.github.io/takahe/typography.html)
+
+
 
 
 
